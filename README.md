@@ -2,12 +2,12 @@
 ```HI i'm Mr.White Shadow```
 
 ## Stats
-![Damzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteshadowofficial&show_icons=true&theme=radical)
+![Mr.White Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteshadowofficial&show_icons=true&theme=radical)
 
 ## Top Language 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteshadowofficial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteshadowofficial)](https://github.com/whiteshadowofficial/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteshadowofficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteshadowofficial&layout=compact)](https://github.com/whiteshadowofficial/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=whiteshadowofficial)
 ## <div align="center">⚡ Stack </div>
